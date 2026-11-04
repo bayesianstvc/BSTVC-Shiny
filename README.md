@@ -3,7 +3,7 @@ BSTVC-Shiny is an interactive web application for Bayesian spatiotemporally vary
 
 ## Related BSTVC products
 
-For a graphical Windows analysis workflow, [BSTVC Desktop V2](https://bayesianstvc.github.io/BSTVC-Desktop/v2/) is available separately. The English x64 installer is dated **26.10.25** and was released on **3 November 2026**.
+For a graphical Windows analysis workflow, [BSTVC Desktop V2](https://bayesianstvc.github.io/BSTVC-Desktop/v2/) is available separately. The English x64 installer is dated **26.10.25** and was released on **4 November 2026**.
 
 - [Download English Desktop V2](https://github.com/bayesianstvc/BSTVC-Desktop/releases/download/v2026.10.25/BSTVC_desktop_EN_win_x64_26.10.25_setup.exe).
 - [Release notes, checksum, and installation information](https://github.com/bayesianstvc/BSTVC-Desktop/releases/tag/v2026.10.25).
